@@ -1,9 +1,12 @@
 body {
     background-image: url("bruna.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
     height: 100vh;
+    max-width: 600px;
 }
 
 .container {
